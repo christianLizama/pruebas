@@ -61,7 +61,6 @@
 
 </template>
 
-
 <script>
 
     export default {
@@ -71,7 +70,6 @@
       }
     }
   }
-
 </script>
 
 <style scoped>
@@ -83,5 +81,3 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif
   }
 </style>
-
-

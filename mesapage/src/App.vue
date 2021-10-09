@@ -1,9 +1,21 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+
+    <b-container class="bv-example-row">
+      <b-row>
+
+        <b-col>
+          <div id="nav">
+            <!-- aca accesos superiores -->
+            <router-link to="/">Home</router-link> |
+            <router-link to="/about">About</router-link> |
+            <router-link to="/busqueda">Buscar</router-link> |
+            <router-link to="/carrito">Carrito</router-link>
+          </div>
+        </b-col>
+      </b-row>
+    </b-container>
+
     <router-view/>
   </div>
 </template>
