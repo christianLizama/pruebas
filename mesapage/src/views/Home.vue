@@ -18,21 +18,21 @@
             </b-nav-item-dropdown>
             <!-- Mujer -->
             <b-nav-item-dropdown text="Mujer" right class= "letra">
-          <b-dropdown-item href="#">Pantalones</b-dropdown-item>
+          <b-dropdown-item href="#">Pantalones con tule</b-dropdown-item>
           <b-dropdown-item href="#">Poleras</b-dropdown-item>
           <b-dropdown-item href="#">Polerones</b-dropdown-item>
           <b-dropdown-item href="#">Camisas</b-dropdown-item>
           <b-dropdown-item href="#">Camisetas</b-dropdown-item>
           <b-dropdown-item href="#">Casacas</b-dropdown-item>
-          <b-dropdown-item href="#">Abrigos</b-dropdown-item>
-          <b-dropdown-item href="#">Vestidos</b-dropdown-item>
+          <b-dropdown-item href="#">Abrigosssssssss</b-dropdown-item>
+          <b-dropdown-item href="#">Vestidoszzzzzzzz</b-dropdown-item>
             </b-nav-item-dropdown>
             <!-- Temporada -->
             <b-nav-item-dropdown text="Temporada" right class= "letra">
-          <b-dropdown-item href="#">Primavera-Verano 2021</b-dropdown-item>
-          <b-dropdown-item href="#">Otoño-Invierno 2021</b-dropdown-item>
-          <b-dropdown-item href="#">Primavera-Verano 2020</b-dropdown-item>
-          <b-dropdown-item href="#">Otoño-Invierno 2020</b-dropdown-item>
+          <b-dropdown-item href="#">Primavera-Veranowwwww 2021</b-dropdown-item>
+          <b-dropdown-item href="#">Otoño-Inviernodddddqqqqqq 2021</b-dropdown-item>
+          <b-dropdown-item href="#">Primavera-Veranoccccc 2020</b-dropdown-item>
+          <b-dropdown-item href="#">Otoño-Inviernovvvv 2020</b-dropdown-item>
             </b-nav-item-dropdown>
 
 
@@ -42,7 +42,7 @@
             <!--<router-link to="/Busqueda">-->
             
             <b-button id="botonBusqueda" href="Busqueda" v size="sm" class="my-2 my-sm-0" type="submit">GO</b-button>
-
+            
             <router-link to="/Carrito">
 
               <b-img src="https://img.icons8.com/dotty/80/000000/shopping-cart.png" width="40" height="40">
